@@ -18,9 +18,9 @@ Declarar variables individuales.
 ```
 edad = 25
 ```
-</pre>
-En este caso, la variable "edad" es un objeto de tipo entero que ocupa un espacio en la memoria. Python utiliza la referencia a este objeto para acceder al valor almacenado y manipularlo si es necesario.
 <pre>
+En este caso, la variable "edad" es un objeto de tipo entero que ocupa un espacio en la memoria. Python utiliza la referencia a este objeto para acceder al valor almacenado y manipularlo si es necesario.
+</pre>
 <pre>
 La razón por la que se considera que las variables son objetos en Python es porque, al igual que los objetos en la programación orientada a objetos, las variables en Python tienen atributos y métodos que pueden ser utilizados para manipular su valor.
 </pre>
