@@ -54,6 +54,14 @@ ___Una forma común de definir una constante en Python es utilizar una variable 
 EDAD = 25
 ```
 
+___Python define una serie de valores constantes en su propio namespace. Los más importantes son:___
+
+```False```: El valor false del tipo bool.
+
+```True```: El valor true del tipo bool.
+
+```None```: El valor del tipo NoneType. Generalmente None se utiliza para representar la ausencia de valor de una variable.
+
 Variables globales:
 
 ___En Python, se pueden declarar variables globales para que estén disponibles en todo el programa. Una variable global es aquella que se declara fuera de cualquier función o clase y que se puede acceder desde cualquier parte del código.___
