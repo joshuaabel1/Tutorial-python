@@ -8,7 +8,7 @@ Tutorial para el grupo de estudio de Python.
 | Teoría |
 | ----------- |
 | [ Python ] |
-| [ Sintax ] |
+| [ Tips ] |
 | [ Variables ] |
 | [ Types ] |
 | [ Operators ] |
@@ -29,7 +29,7 @@ Tutorial para el grupo de estudio de Python.
 
 
 [Python]: ./theory/python.md
-[Sintax]: ./theory/sintaxis.md
+[Tips]: ./theory/tips.md
 [Variables]: ./theory/variables.md
 [Types]: ./theory/types.md
 [Operators]: ./theory/operators.md
