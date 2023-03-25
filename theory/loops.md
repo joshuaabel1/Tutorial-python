@@ -73,3 +73,5 @@ while numero < 0:
 print("El número ingresado es:", numero)
 
 ```
+
+__En este ejemplo, el bucle while sigue pidiendo la entrada del usuario hasta que se ingresa un número entero positivo. En cada iteración, se verifica si la entrada es un número entero positivo utilizando el método isdigit() de la cadena de texto ingresada. Si es así, se convierte a entero y se almacena en la variable numero. Si no es un número válido, se muestra un mensaje de error y se solicita al usuario que ingrese nuevamente. Una vez que se ha ingresado un número válido, el bucle while se detiene y se imprime el valor ingresado.__
