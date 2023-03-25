@@ -43,7 +43,7 @@ __En Python, el bucle while se utiliza para ejecutar un bloque de código repeti
 
 __La sintaxis básica del bucle while en Python es la siguiente:__
 
-```
+``` python
 while condición:
     # Código a ejecutar mientras se cumpla la condición
 ```
