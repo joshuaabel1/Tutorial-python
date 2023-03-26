@@ -54,7 +54,7 @@ __Una forma común de definir una constante en Python es utilizar una variable e
 EDAD = 25
 ```
 
-___Python define una serie de valores constantes en su propio namespace. Los más importantes son:___
+__Python define una serie de valores constantes en su propio namespace. Los más importantes son:__
 
 ```False```: El valor false del tipo bool.
 

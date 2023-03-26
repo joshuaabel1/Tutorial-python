@@ -44,6 +44,6 @@ Tutorial para el grupo de estudio de Python.
 [Class]: ./theory/class.md
 [Modules]: ./theory/modules.md
 [Test (doctest, pytest)]: ./theory/test.md
-[virtual environments]: ./theory/entornos.md
+[virtual environments]: ./theory/enviroments.md
 [Github]: ./theory/github.md
 [Frameworks (django)]: ./theory/frameworks.md
