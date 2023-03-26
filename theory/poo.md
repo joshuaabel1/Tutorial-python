@@ -22,6 +22,6 @@ __La herencia es un mecanismo de la POO que permite la creación de una nueva cl
 
 __El polimorfismo es la capacidad de un objeto de tomar diferentes formas o comportamientos según el contexto. En la POO, esto se logra al utilizar una subclase en lugar de una superclase, y esperar que tenga un comportamiento similar. Esto se puede hacer mediante la sobrescritura de un método en la subclase con una implementación diferente a la de la superclase, o mediante la sobrecarga de un método en la subclase con diferentes argumentos o tipos de retorno.__
 
-### resumen:
+### Resumen:
 
 __En Python, todo es un objeto, desde una lista hasta una función. Para crear una clase en Python, se utiliza la palabra clave class, seguida del nombre de la clase y dos puntos. Los atributos y métodos se definen dentro de la clase, y se acceden mediante la sintaxis objeto.atributo o objeto.metodo(). Para crear un objeto de una clase, se utiliza la sintaxis objeto = Clase(), donde Clase es el nombre de la clase.__
