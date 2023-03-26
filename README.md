@@ -22,8 +22,8 @@ Tutorial para el grupo de estudio de Python.
 | [ POO ] |
 | [ Class ] |
 | [ Modules ] |
-| [ Test (doctest, pytest) ] |
 | [ virtual environments ] |
+| [ Test (doctest, pytest) ] |
 | [ Github ] |
 | [ Frameworks (django) ] |
 
