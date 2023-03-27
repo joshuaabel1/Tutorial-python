@@ -5,21 +5,22 @@ Tutorial para el grupo de estudio de Python.
 
 ### Que veremos en el grupo?
 
-| Teoría |
-| ----------- |
-| [ Python ] |
+| Teoría || Practicas           |
+| ------------- |:-------------:|
+
+| [ Python ] | [ class 1 ] |
 | [ Tips ] |
-| [ Variables ] |
+| [ Variables ] | [ class 2 ] |
 | [ Types ] |
-| [ Operators ] |
+| [ Operators ] | [ class 3 ] |
 | [ Loops ] |
-| [ Conditionals (if, elif, else) ] |
-| [ Exceptions ] |
-| [ Functions ] |
-| [ Datastructures (List, tuples, sets y dictionaries) ] |
-| [ Lambdas ] |
-| [ List, Dicts Comprehensions ] |
-| [ POO ] |
+| [ Conditionals (if, elif, else) ] | [ class 4 ] |
+| [ Exceptions ] | [ class 5 ] |
+| [ Functions ] | [ class 6 ] |
+| [ Datastructures (List, tuples, sets y dictionaries) ] | [ class 7 ] |
+| [ Lambdas ] | [ class 8 ] |
+| [ List, Dicts Comprehensions ] | [ class 9 ] |
+| [ POO ] | [ class 10 ] |
 | [ Class ] |
 | [ Modules ] |
 | [ virtual environments ] |
