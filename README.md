@@ -18,7 +18,7 @@ Tutorial para el grupo de estudio de Python.
 | [Conditionals (if, elif, else)]                | [class 4]        |
 | [Exceptions]                                   | [class 5]        |
 | [Functions]                                    | [class 6]        |
-| [Datastructures (List, tuples, sets y dictionaries)] | class 7  |
+| [Datastructures (List, tuples, sets y dictionaries)] | [class 7]  |
 | [Lambdas]                                      | [class 8]        |
 | [List, Dicts Comprehensions ]                   | [class 9]        |
 | [POO]                                          | [class 10]       |
