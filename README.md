@@ -9,23 +9,23 @@ Tutorial para el grupo de estudio de Python.
 
 | Teoría                                       | Practicas      |
 | -------------------------------------------- | -------------- |
-| [Python]                                       | [class 1]        |
 | [Tips]                                         |                |
-| [Variables]                                    | [class 2]        |
+| [Python]                                       |         |
+| [Variables]                                    | [class 1]      |
 | [Types]                                        |                |
-| [Operators]                                    | [class 3]        |
-| [Loops]                                        |                |
-| [Conditionals (if, elif, else)]                | [class 4]        |
-| [Exceptions]                                   | [class 5]        |
-| [Functions]                                    | [class 6]        |
-| [Datastructures (List, tuples, sets y dictionaries)] | [class 7]  |
-| [Lambdas]                                      | [class 8]        |
-| [List, Dicts Comprehensions ]                   | [class 9]        |
-| [POO]                                          | [class 10]       |
+| [Loops]                                        | [class 2]      |
+| [Operators]                                    |         |
+| [Conditionals (if, elif, else)]                | [class 3]      |
+| [Exceptions]                                   | [class 4]      |
+| [Functions]                                    | [class 5]      |
+| [Lambdas]                                      |         |
+| [Datastructures (List, tuples, sets y dictionaries)] | [class 6]|
+| [List, Dicts Comprehensions ]                  | [class 7]      |
+| [POO]                                          | [class 8]      |
 | [Class]                                        |                |
-| [Modules]                                      |                |
+| [Modules]                                      | [class 9]      |
 | [Virtual environments]                         |                |
-| [Test (doctest, pytest)]                       |                |
+| [Test (doctest, pytest)]                       | [class 10]     |
 | [Github]                                       |                |
 | [Frameworks (django) ]                         |                |
 
