@@ -1,7 +1,7 @@
 ## Que es python?
 
 
- Python es un lenguaje de programación interpretado, dinámico y de alto nivel. Fue creado por Guido van Rossum en 1991 y se ha convertido en uno de los lenguajes de programación más populares y utilizados en todo el mundo.-
+__Python es un lenguaje de programación interpretado, dinámico y de alto nivel. Fue creado por Guido van Rossum en 1991 y se ha convertido en uno de los lenguajes de programación más populares y utilizados en todo el mundo.__
 
 
 ## Por que Python?
