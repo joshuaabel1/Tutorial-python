@@ -59,4 +59,4 @@ Tutorial para el grupo de estudio de Python.
 [class 7]: ./practices/class_7.py
 [class 8]: ./practices/class_8.py
 [class 9]: ./practices/class_9.py
-[class 10]: ./practices/class_10.py
+[class 10]: ./practices/test_class_10.py
