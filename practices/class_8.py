@@ -28,33 +28,33 @@ juan.saludar()
 # saludar de la instancia juan para imprimir el saludo.
 
 
-class Electrodomestico:
-    def __init__(self, marca, modelo, precio):
-        self.marca = marca
-        self.modelo = modelo
-        self.precio = precio
+class Appliance:
+    def __init__(self, brand, model, price):
+        self.brand = brand
+        self.model = model
+        self.price = price
 
-    def encender(self):
-        print(f"{self.marca} {self.modelo} encendido.")
+    def on(self):
+        print(f"{self.brand} {self.model} turned on.")
 
-    def apagar(self):
-        print(f"{self.marca} {self.modelo} apagado.")
+    def off(self):
+        print(f"{self.brand} {self.model} turned off.")
 
-class Lavadora(Electrodomestico):
-    def __init__(self, marca, modelo, precio, capacidad):
-        super().__init__(marca, modelo, precio)
-        self.capacidad = capacidad
+class WashingMachine(Appliance):
+    def __init__(self, brand, model, price, capacity):
+        super().__init__(brand, model, price)
+        self.capacity = capacity
 
-    def lavar(self):
-        print(f"Lavando ropa en {self.marca} {self.modelo}.")
+    def wash(self):
+        print(f"Washing clothes in {self.brand} {self.model}.")
 
-class Televisor(Electrodomestico):
-    def __init__(self, marca, modelo, precio, tamaño):
-        super().__init__(marca, modelo, precio)
-        self.tamaño = tamaño
+class Television(Appliance):
+    def __init__(self, brand, model, price, size):
+        super().__init__(brand, model, price)
+        self.size = size
 
-    def cambiar_canal(self, canal):
-        print(f"Cambiando canal a {canal} en {self.marca} {self.modelo}.")
+    def change_channel(self, channel):
+        print(f"Changing channel to {channel} on {self.brand} {self.model}.")
 
 
 # En este ejemplo, se define una clase Electrodomestico con atributos marca,
