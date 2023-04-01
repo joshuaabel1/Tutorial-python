@@ -51,41 +51,41 @@ print(numbers)  # salida: [1, 2, 3, 4, 5]
 
 # Crear una tupla:
 
-tupla = (1, 2, 3, 4, 5)
+tuples = (1, 2, 3, 4, 5)
 
 # Acceder a un elemento de la tupla por su índice:
 
-tupla = (1, 2, 3, 4, 5)
-print(tupla[0])  # salida: 1
+tuples = (1, 2, 3, 4, 5)
+print(tuples[0])  # salida: 1
 
 # Obtener la longitud de la tupla:
 
-tupla = (1, 2, 3, 4, 5)
-print(len(tupla))  # salida: 5
+tuples = (1, 2, 3, 4, 5)
+print(len(tuples))  # salida: 5
 
 # Convertir una tupla en una lista:
 
-tupla = (1, 2, 3, 4, 5)
-list = list(tupla)
+tuples = (1, 2, 3, 4, 5)
+list = list(tuples)
 print(list)  # salida: [1, 2, 3, 4, 5]
 
 # Convertir una lista en una tupla:
 
 list = [1, 2, 3, 4, 5]
-tupla = tuple(list)
-print(tupla)  # salida: (1, 2, 3, 4, 5)
+tuples = tuple(list)
+print(tuples)  # salida: (1, 2, 3, 4, 5)
 
 # Unir dos tuplas:
 
-tupla1 = (1, 2, 3)
-tupla2 = (4, 5, 6)
-tupla3 = tupla1 + tupla2
-print(tupla3)  # salida: (1, 2, 3, 4, 5, 6)
+tuples1 = (1, 2, 3)
+tuples2 = (4, 5, 6)
+tuples3 = tuples1 + tuples2
+print(tuples3)  # salida: (1, 2, 3, 4, 5, 6)
 
 # Contar la cantidad de veces que aparece un elemento en una tupla:
 
-tupla = (1, 2, 3, 4, 5, 5, 5)
-counter = tupla.count(5)
+tuples = (1, 2, 3, 4, 5, 5, 5)
+counter = tuples.count(5)
 print(counter)  # salida: 3
 
 
@@ -131,8 +131,8 @@ print(set3)  # salida: {1, 2}
 # Verificar si un elemento está en un set:
 
 mi_set = {1, 2, 3, 4, 5}
-resultado = 3 in mi_set
-print(resultado)  # salida: True
+result = 3 in mi_set
+print(result)  # salida: True
 
 "Dicts: "
 
