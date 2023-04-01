@@ -28,7 +28,7 @@ def test_washingmachine_wash(capsys):
     captured = capsys.readouterr()
     assert captured.out.strip() == "Washing clothes in Samsung DEF456."
 
-def test_televisor_cambiar_canal(capsys):
+def test_televisor_change_channel(capsys):
     t = Television('Sony', 'GHI789', 1000, 50)
     t.change_channel(5)
     captured = capsys.readouterr()
