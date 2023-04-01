@@ -13,10 +13,10 @@ Cubre loops.
 
 # Lista:
 
-frutas = ["manzana", "banana", "kiwi", "naranja"]
+fruits = ["manzana", "banana", "kiwi", "naranja"]
 
-for fruta in frutas:
-    print(fruta)
+for fruit in fruits:
+    print(fruit)
 
 
 # Este bucle for recorre la lista de frutas y 
@@ -35,10 +35,10 @@ for i in range(5):
 
 # Dicts:
 
-edades = {"Juan": 25, "María": 30, "Pedro": 35}
+ages = {"Juan": 25, "María": 30, "Pedro": 35}
 
-for nombre, edad in edades.items():
-    print(nombre, "tiene", edad, "años")
+for name, age in ages.items():
+    print(name, "have", age, "years")
 
 
 # Este bucle for recorre el diccionario edades y en cada iteración imprime el nombre 
@@ -59,11 +59,11 @@ for i in range(5):
 # necesitamos definir una condición que se evalúe como True o False. 
 # Mientras la condición sea True, el código dentro del bucle se ejecutará repetidamente.
 
-contador = 1
+count = 1
 
-while contador <= 5:
-    print(contador)
-    contador += 1
+while count <= 5:
+    print(count)
+    count += 1
 
 # En este ejemplo, utilizamos la variable contador para llevar la cuenta de los números
 # que hemos imprimido hasta el momento. La condición contador <= 5 se evalúa en cada 
@@ -77,11 +77,11 @@ while contador <= 5:
 # En algunos casos, podemos utilizar un contador para controlar el número de 
 # iteraciones del bucle.
 
-entrada = ""
+entry = ""
 
-while entrada != "salir":
-    entrada = input("Ingresa un valor (escribe 'salir' para terminar): ")
-    print("Ingresaste:", entrada)
+while entry != "salir":
+    entry = input("Ingresa un valor (escribe 'salir' para terminar): ")
+    print("Ingresaste:", entry)
 
 print("Fin del programa")
 
@@ -92,15 +92,15 @@ print("Fin del programa")
 # el mensaje "Fin del programa".
 
 
-limite = 10
-suma = 0
-contador = 1
+limit = 10
+sum = 0
+count = 1
 
-while contador <= limite:
-    suma += contador
-    contador += 1
+while count <= limit:
+    sum += count
+    count += 1
 
-print("La suma de los números del 1 al", limite, "es:", suma)
+print("La suma de los números del 1 al", limit, "es:", sum)
 
 # Este bucle while suma los números del 1 al limite utilizando la variable
 # suma y el contador contador. El bucle se ejecuta mientras el valor de contador 

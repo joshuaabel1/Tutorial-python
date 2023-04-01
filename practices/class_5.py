@@ -36,8 +36,8 @@ print(result)  # salida: 12
 
 "Función que imprime el doble de un número: "
 
-def double(numero):
-    print(numero * 2)
+def double(number):
+    print(number * 2)
 
 double(5)  # salida: 10
 
@@ -68,10 +68,10 @@ print(result)  # salida: 10
 # Lo mismo que en la anterior funcion repetimos la funcion sum pero como una 
 # funcion anonima .
 
-sum = lambda x, y: x + y
+summ = lambda x, y: x + y
 
-resultado = sum(5, 3)
-print(resultado)  # salida: 8
+result = summ(5, 3)
+print(result)  # salida: 8
 
 # Definimos una función lambda que toma dos argumentos (x e y) y devuelve
 # la suma de esos dos números. Luego, asignamos la función lambda a la variable

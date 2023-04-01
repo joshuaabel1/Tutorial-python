@@ -43,7 +43,7 @@ except ValueError:
 "Excepción FileNotFoundError:"
 
 try:
-    archivo = open("archivo.txt", "r")
+    file = open("archivo.txt", "r")
 except FileNotFoundError:
     print("Error: el archivo no existe")
 
