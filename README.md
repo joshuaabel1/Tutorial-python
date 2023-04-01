@@ -1,7 +1,36 @@
-# Tutorial-python
+# Tutorial-python🐍
 
-Tutorial para el grupo de estudio de Python.
+Tutorial para el grupo de estudio de Python🐍.
 
+
+## ¿Cómo nos organizamos? 👍
+La idea principal es que podamos aprender entre todos este lindo lenguaje!
+
+La **metodología** que usamos es la siguiente:
+- 📢 Estaremos utilizando como medio de comunicación el canal del grupo de estudio en  [FrontendCafé](https://discord.gg/frontendcafe):
+- 💪 Cada semana repasaremos teoría propuesta para las siguientes sesiones
+- 🏃‍♂️ Daremos ejercicios para reforzar los temas y crearemos un proyecto evolutivo a medida que avancemos las sesiones
+
+
+## Material de referencia 📚
+En el grupo usaremos los siguientes recursos recomendados:
+
+- [Python - W3Schools](https://www.w3schools.com/python/default.asp)
+- [Programación con Python](https://aprendeconalf.es/docencia/python/manual/)
+
+
+## Requisitos:
+
+Bueno, para poder avanzar con la practica del grupo debemos conseguir unos requisitos
+simples.
+
+### Cuentas:
+
+- [Github](https://github.com/)
+- [Discord](https://discord.gg/)
+- [Codewars](https://www.codewars.com/dashboard)
+
+y tener intslado [Python](https://github.com/joshuaabel1/FEC_PSG/blob/main/teoria/instalacion.md) 🐍.
 
 ### Que veremos en el grupo?
 
