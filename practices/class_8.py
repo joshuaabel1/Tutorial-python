@@ -6,18 +6,18 @@ Cubre POO y class.
 """
 
 class Persons:
-    def __init__(self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-    def saludar(self):
-        print(f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años.")
-
+    def greet(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+        
 # Crear una instancia de la clase Persons
 juan = Persons("Juan", 25)
 
 # Llamar al método saludar de la instancia juan
-juan.saludar()
+juan.greet()
 
 # En este ejemplo, se define una clase llamada Persona. La clase tiene dos
 # atributos: nombre y edad, y un método llamado saludar que imprime una cadena 
