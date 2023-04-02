@@ -90,3 +90,16 @@ simples.
 [class 8]: ./practices/class_8.py
 [class 9]: ./practices/class_9.py
 [class 10]: ./practices/test_class_10.py
+
+## ✨ Contribuidores
+
+<table>
+  <tr>
+        <td align="center"><a href="https://github.com/joshuaabel1"><img src="https://avatars.githubusercontent.com/u/88058984?v=4" width="100px;" alt=""/><br /><sub><b>Joshua Abel</b></sub></a><br /><a href="#!"  title="Documentation">📖</a><a href="#!"  title="Code">💻</a><a href="#!"  title="Mentoring">🧑‍🏫</a><a href="#!"  title="projectManagement">📆</a>
+    </td>
+        <td align="center"><a href="https://www.y3rb1t4.com.ar/"><img src="https://avatars.githubusercontent.com/u/12781133?v=4" width="100px;" alt=""/><br /><sub><b>The Y3rb4</b></sub></a><br /><a href="#!"  title="Documentation">📖</a>
+    </td>
+        <td align="center"><a href="https://jonathan.com.ar/es"><img src="https://avatars.githubusercontent.com/u/68082746?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jonathan Dyallo</b></sub></a><br /><a href="#!"  title="Documentation">📖</a>
+    </td>
+  </tr>
+</table>
