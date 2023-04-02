@@ -18,6 +18,8 @@ En el grupo usaremos los siguientes recursos recomendados:
 
 - [Python - W3Schools](https://www.w3schools.com/python/default.asp)
 - [Programación con Python](https://aprendeconalf.es/docencia/python/manual/)
+- [Python Cheatsheet en ingles](https://www.pythoncheatsheet.org/)
+- [Roadmap](https://roadmap.sh/python)
 
 ## Requisitos 📋
 
