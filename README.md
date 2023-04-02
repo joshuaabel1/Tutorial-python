@@ -17,6 +17,7 @@ En el grupo usaremos los siguientes recursos recomendados:
 
 - [Python - W3Schools](https://www.w3schools.com/python/default.asp)
 - [Programación con Python](https://aprendeconalf.es/docencia/python/manual/)
+- [Roadmap](https://roadmap.sh/python)
 
 
 ## Requisitos:

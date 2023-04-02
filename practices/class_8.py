@@ -5,7 +5,7 @@ Cubre POO y class.
 
 """
 
-class Persona:
+class Persons:
     def __init__(self, nombre, edad):
         self.nombre = nombre
         self.edad = edad
@@ -13,8 +13,8 @@ class Persona:
     def saludar(self):
         print(f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años.")
 
-# Crear una instancia de la clase Persona
-juan = Persona("Juan", 25)
+# Crear una instancia de la clase Persons
+juan = Persons("Juan", 25)
 
 # Llamar al método saludar de la instancia juan
 juan.saludar()
