@@ -59,3 +59,6 @@
 - whatis: muestra descripciones de una sola línea
 - neofetch: muestra información sobre el sistema operativo y el hardware
 - whoami: muestra el nombre de usuario actual.
+
+__Tambien podemos ver la siguiente web__ [devhints](https://devhints.io/)
+
